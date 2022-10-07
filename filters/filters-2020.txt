@@ -2325,7 +2325,7 @@ anonymous-links.com##+js(aopr, absda)
 pagalmovies.*,7starhd.*,1jalshamoviez.*,moviesyug.net,9xupload.*,bdupload.*,desiupload.*,rdxhd1.*,w4files.ws##+js(aeld, , _0x)
 
 ! gamestorrents .nu popups
-gamestorrents.*##+js(aopr, document.cookie)
+gamestorrents.nu##+js(aopr, document.cookie)
 
 ! https://github.com/NanoMeow/QuickReports/issues/2472
 @@||couponcabin.com^$ghide
